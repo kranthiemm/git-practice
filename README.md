@@ -7,4 +7,4 @@ I am learning Git as part of a 5-week training plan.
 - Week 2: Branching
 - Week 3: GitHub
 - Week 4: Rebase and Reset
-- Week 5: Real project
+- Week 5: Real project on GitHub
