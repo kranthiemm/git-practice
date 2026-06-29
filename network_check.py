@@ -13,3 +13,18 @@ def check_device(ip):
 
 for device in devices:
     check_device(device)
+
+import subprocess
+
+def check_reachability(ip):
+    result = subprocess.run(
+        ["ping", "-n", "1", ip],
+        stdout=subprocess.DEVNULL
+    )
+    if result.returncode == 0:
+        print(f"{ip} is REACHABLE ✅")
+    else:
+        print(f"{ip} is UNREACHABLE ❌")
+
+for device in devices:
+    check_reachability(device)
