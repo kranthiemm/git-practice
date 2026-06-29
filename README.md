@@ -4,7 +4,6 @@ I am learning Git as part of a 5-week training plan.
 
 ## Topics
 - Week 1: Git basics - - UPDATED BY BRANCH A
-=======
 - Week 1: Git basics with Branch B
 - Week 2: Branching
 - Week 3: GitHub
