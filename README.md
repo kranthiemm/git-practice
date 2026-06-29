@@ -9,3 +9,4 @@ I am learning Git as part of a 5-week training plan.
 - Week 4: Rebase and Reset
 - Week 5: Real project on GitHub
 - network_check.py: first Python script
+- Trying git pull from GitHub edit
